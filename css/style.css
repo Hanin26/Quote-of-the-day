@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(72, 72, 129) ;
+}
+div{
+    background-color: white;
+}
+h1{
+    font-size: 80px;
+    font-weight: 700;
+}
+p{
+    font-size: 38px;
+    padding-block: 25px;
+}
+button{
+    padding: 25px 45px;
+    background-color: rgb(53, 53, 90);
+    color: white;
+    border-color: transparent;
+    border-radius: 40px;
+}
+button:hover{
+    background-color:rgb(72, 72, 129);
+    transition: all 0.4s;
+}
